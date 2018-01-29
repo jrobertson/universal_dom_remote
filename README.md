@@ -3,7 +3,7 @@
 
 ## Example
 
-    require 'sps_duplex'
+    require 'universal_dom_remote'
 
     udr = UniversalDomRemote.new debug: true
 
